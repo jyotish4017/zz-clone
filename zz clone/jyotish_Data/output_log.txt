@@ -1,0 +1,62 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jyotish\Downloads\zz clone-20170523T163911Z-001\zz clone\jyotish_Data\Managed\System.dll (this message is harmless)
+UnityException: Transform child out of bounds
+  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at player_scripts.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.381748 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 255.
+Total: 0.327155 ms (FindLiveObjects: 0.024803 ms CreateObjectMapping: 0.019672 ms MarkObjects: 0.275837 ms  DeleteObjects: 0.006414 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.451031 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 255.
+Total: 0.332715 ms (FindLiveObjects: 0.024803 ms CreateObjectMapping: 0.015823 ms MarkObjects: 0.284817 ms  DeleteObjects: 0.005987 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.063149 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 255.
+Total: 0.313898 ms (FindLiveObjects: 0.025231 ms CreateObjectMapping: 0.017961 ms MarkObjects: 0.263435 ms  DeleteObjects: 0.006414 ms)
+
+UnityException: Transform child out of bounds
+  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at player_scripts.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.453597 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 255.
+Total: 0.324589 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.016678 ms MarkObjects: 0.274981 ms  DeleteObjects: 0.006414 ms)
+
